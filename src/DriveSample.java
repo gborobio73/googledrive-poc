@@ -31,6 +31,8 @@ import java.util.Collections;
 import java.util.Iterator;
 import java.util.List;
 
+import javax.servlet.http.HttpServletRequest;
+
 /**
  * @author Yaniv Inbar
  */
@@ -40,7 +42,7 @@ public class DriveSample {
    * Be sure to specify the name of your application. If the application name is {@code null} or
    * blank, the application will log a warning. Suggested format is "MyCompany-ProductName/1.0".
    */
-  private static final String APPLICATION_NAME = "";
+  private static final String APPLICATION_NAME = "Virtual Is Viral";
 
   /** Directory to store user credentials. */
   private static final java.io.File DATA_STORE_DIR =
@@ -58,7 +60,7 @@ public class DriveSample {
   private static HttpTransport httpTransport;
 
   /** Global instance of the JSON factory. */
-  private static final JsonFactory JSON_FACTORY = JacksonFactory.getDefaultInstance();
+  private static final JsonFactory JSON_FACTORY =  new JacksonFactory();
 
   private static Drive drive;
 

@@ -49,7 +49,7 @@ public class PlusSample {
   private static HttpTransport httpTransport;
 
   /** Global instance of the JSON factory. */
-  private static final JsonFactory JSON_FACTORY = JacksonFactory.getDefaultInstance();
+  private static final JsonFactory JSON_FACTORY = new JacksonFactory();
 
   private static Plus plus;
 
