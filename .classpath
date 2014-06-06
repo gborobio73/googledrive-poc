@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/s7219/development/googledrive-poc/libs/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/s7219/development/googledrive-poc/libs/google-api-client-1.18.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/s7219/development/googledrive-poc/libs/google-api-client-android-1.18.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/s7219/development/googledrive-poc/libs/google-api-client-appengine-1.18.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/s7219/development/googledrive-poc/libs/google-api-client-gson-1.18.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/s7219/development/googledrive-poc/libs/google-api-client-jackson2-1.18.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/s7219/development/googledrive-poc/libs/google-api-client-java6-1.18.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/s7219/development/googledrive-poc/libs/google-api-client-servlet-1.18.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/s7219/development/googledrive-poc/libs/google-http-client-1.18.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/s7219/development/googledrive-poc/libs/google-http-client-android-1.18.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/s7219/development/googledrive-poc/libs/google-http-client-appengine-1.18.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/s7219/development/googledrive-poc/libs/google-http-client-gson-1.18.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/s7219/development/googledrive-poc/libs/google-http-client-jackson2-1.18.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/s7219/development/googledrive-poc/libs/google-http-client-jdo-1.18.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/s7219/development/googledrive-poc/libs/google-oauth-client-1.18.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/s7219/development/googledrive-poc/libs/google-oauth-client-appengine-1.18.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/s7219/development/googledrive-poc/libs/google-oauth-client-java6-1.18.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/s7219/development/googledrive-poc/libs/google-oauth-client-jetty-1.18.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/s7219/development/googledrive-poc/libs/google-oauth-client-servlet-1.18.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/s7219/development/googledrive-poc/libs/gson-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/s7219/development/googledrive-poc/libs/httpclient-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/s7219/development/googledrive-poc/libs/httpcore-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/s7219/development/googledrive-poc/libs/jackson-core-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/s7219/development/googledrive-poc/libs/jdo2-api-2.3-eb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/s7219/development/googledrive-poc/libs/jetty-6.1.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/s7219/development/googledrive-poc/libs/jetty-util-6.1.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/s7219/development/googledrive-poc/libs/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/s7219/development/googledrive-poc/libs/transaction-api-1.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
